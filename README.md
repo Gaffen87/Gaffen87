@@ -5,7 +5,7 @@ My name is Aske and im currently a computer science student at UCL in Denmark!
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/aske-lysgaard/)
-  - [Portfolio](askelysgaard.me)
+  - [Portfolio](https://gaffen87.github.io/)
  
 - ⚡ Fun fact: I love watching the NFL and my favorite team: Seattle Seahawks 
 <!--
